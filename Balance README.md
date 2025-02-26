@@ -14,7 +14,7 @@ There seems to be a lack of applications or utilities to provide this simple fun
 ### Installation
 
 The application does not need to be installed.
-You can download the latest compiled version of Balance from the [Releases](https://github.com/Skarnivorous/Releases/releases) page.
+You can download the latest compiled version of Balance from the [Releases](https://github.com/Skarnivorous/Release/releases) page.
 Unzip and execute Balance.exe.
 
 ## Usage
